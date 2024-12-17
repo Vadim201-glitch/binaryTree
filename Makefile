@@ -1,5 +1,5 @@
 # Имя исполняемого файла
-TARGET = SetProject
+TARGET = kursovaja
 
 # Компилятор
 CXX = g++
